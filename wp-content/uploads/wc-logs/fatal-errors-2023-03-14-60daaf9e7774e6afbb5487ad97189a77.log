@@ -1,0 +1,44 @@
+2023-03-14T09:46:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\dimensions.php on line 4
+
+2023-03-14T11:21:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php on line 1533
+
+2023-03-14T20:56:37+00:00 CRITICAL Cannot redeclare element_pack_alert() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\includes\helper.php:37) in C:\xampp\htdocs\wordpress\wp-content\plugins\element-pack6.11.1\includes\helper.php on line 57
+
+2023-03-14T20:56:51+00:00 CRITICAL Cannot redeclare element_pack_alert() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\includes\helper.php:37) in C:\xampp\htdocs\wordpress\wp-content\plugins\element-pack6.11.1\includes\helper.php on line 57
+
+2023-03-14T20:56:52+00:00 CRITICAL Cannot redeclare element_pack_alert() (previously declared in C:\xampp\htdocs\wordpress\wp-content\plugins\bdthemes-element-pack\includes\helper.php:37) in C:\xampp\htdocs\wordpress\wp-content\plugins\element-pack6.11.1\includes\helper.php on line 57
+
+2023-03-14T21:38:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\element-pack6.11.1\loader.php on line 14
+
+2023-03-14T21:39:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Helper.php on line 5
+
+2023-03-14T21:39:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Template_Query.php on line 5
+
+2023-03-14T21:39:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Woo_Product_Comparable.php on line 16
+
+2023-03-14T21:39:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-for-elementor-lite\includes\Traits\Woo_Product_Comparable.php on line 16
+
+2023-03-14T21:39:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\essential-addons-elementor\includes\Extensions\EAEL_Parallax_Section.php on line 4
+
+2023-03-14T21:39:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\_inc\lib\core-api\wpcom-endpoints\class-wpcom-rest-api-v2-endpoint-instagram-gallery.php on line 171
+
+2023-03-14T21:39:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\sina-extension-for-elementor\admin\sina-ext-settings.php on line 5
+
+2023-03-14T21:40:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woolentor-addons\includes\admin\include\template-library.php on line 3
+
+2023-03-14T21:40:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-partner\src\class-partner.php on line 200
+
+2023-03-14T21:40:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\file.php on line 16
+
+2023-03-14T21:40:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\file.php on line 16
+
+2023-03-14T21:40:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\modules\theme-tools\content-options.php on line 77
+
+2023-03-14T21:41:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\astra\inc\dynamic-css\inline-on-mobile.php on line 9
+
+2023-03-14T21:41:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro v3.11.2\modules\social\module.php on line 7
+
+2023-03-14T21:41:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementskit-lite\widgets\piechart\piechart.php on line 7
+
+2023-03-14T21:49:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro v3.11.2\modules\woocommerce\widgets\checkout.php on line 15
+

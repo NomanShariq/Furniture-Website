@@ -1,0 +1,10 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {
+        "layout": {
+            "contentSize": "var(--shply-container-width)",
+            "wideSize": "1800"
+        }
+    }
+}
